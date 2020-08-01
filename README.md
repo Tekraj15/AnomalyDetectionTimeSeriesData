@@ -9,6 +9,8 @@ Along with this you will also create interactive charts and plots with plotly py
  Artificial Neural Networks
  Machine Learning
  Data Visualization
+ 
+*---**#-----*#---------->>>>>>> Article Link : https://valueml.com/anomaly-detection-in-time-series-data-using-keras/  <<--#*--#$--
 
 # Algorithmic Overview
 For overview of algorithm, this project si implemented in followind steps:
