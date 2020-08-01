@@ -11,7 +11,8 @@ Along with this you will also create interactive charts and plots with plotly py
  Data Visualization
 
 # Algorithmic Overview
-Project Overview and Import Libraries
+For overview of algorithm, this project si implemented in followind steps:
+Import Libraries
 
 Load and Inspect the S&P 500 Index Data
 
